@@ -1,7 +1,7 @@
 # currencydemo
 demo of golang apis for currency usecase
 
-# Steps to create Currency API's Go Project
+# Steps to create CurrencyDemo  Project
 1. Create folder with any name , eg:CurrencyDemo
 2. Go to the folder that just created and run the below commands:
     a. go mod init <appname>
