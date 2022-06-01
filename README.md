@@ -4,8 +4,8 @@ demo of golang apis for currency usecase
 # Steps to create CurrencyDemo  Project
 1. Create folder with any name , eg:CurrencyDemo
 2. Go to the folder that just created and run the below commands:
-    a. go mod init <appname> \n
-    b. go get github.com/gin-gonic/gin \n
+    a. go mod init <appname> 
+    b. go get github.com/gin-gonic/gin 
 3. mkdir controllers, services, models
 4. In controllers folder create controller with your choosen filename
 5. In Models folder create model with your choosen filename
