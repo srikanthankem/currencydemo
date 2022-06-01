@@ -7,8 +7,7 @@ demo of golang apis for currency usecase
     a. go mod init <appname>
     b. go get github.com/gin-gonic/gin
 3. mkdir controllers, services, models
-  
-# In controllers folder create controller with your choosen filename
-# In Models folder create model with your choosen filename
-# In Services folder create service interface file and service implementation file 
-# In the main folder create main file and initialize gin server , services and add routes 
+4. In controllers folder create controller with your choosen filename
+5. In Models folder create model with your choosen filename
+6. In Services folder create service interface file and service implementation file 
+7. In the main folder create main file and initialize gin server , services and add routes 
